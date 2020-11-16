@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+	<Asset>
+		<equity>https://raw.githubusercontent.com/abir4ever/SapiatDataAnalysis/master/equity.csv</equity>
+		<bond>https://raw.githubusercontent.com/abir4ever/SapiatDataAnalysis/master/bond.csv</bond>
+		<gold>https://raw.githubusercontent.com/abir4ever/SapiatDataAnalysis/master/gc.csv</gold>
+		<forex>https://raw.githubusercontent.com/abir4ever/SapiatDataAnalysis/master/forex.csv</forex>
+	</Asset>
+	<Macro>
+		<gdp>https://raw.githubusercontent.com/abir4ever/SapiatDataAnalysis/master/gdp.csv</gdp>
+		<Inflation>https://raw.githubusercontent.com/abir4ever/SapiatDataAnalysis/master/inflation.csv</Inflation>
+		<unemp>https://raw.githubusercontent.com/abir4ever/SapiatDataAnalysis/master/unemp.csv</unemp>
+	</Macro>	
+</Data>	
